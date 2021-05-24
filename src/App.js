@@ -5,7 +5,7 @@ import './App.css';
 const App = () => {
 
   function openInNewTab(url) {
-    var win = window.open("myapp://home", '_blank');
+    var win = window.open("myapp://home?testParam=Heinrich", '_blank');
     if (win != null) {
       win.focus();
     }
@@ -24,7 +24,7 @@ const App = () => {
         </p>
         <a
           className="App-link"
-          href="myapp://home"
+          href="myapp://home?testParam=Heinrich"
           target="_blank"
           rel="noopener noreferrer"
         >
