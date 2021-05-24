@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rn-redirect-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rn-redirect-test/static/js/main.43a0a9e5.chunk.js",
+    "main.js.map": "/rn-redirect-test/static/js/main.43a0a9e5.chunk.js.map",
+    "runtime-main.js": "/rn-redirect-test/static/js/runtime-main.d99f8273.js",
+    "runtime-main.js.map": "/rn-redirect-test/static/js/runtime-main.d99f8273.js.map",
+    "static/js/2.e38f5843.chunk.js": "/rn-redirect-test/static/js/2.e38f5843.chunk.js",
+    "static/js/2.e38f5843.chunk.js.map": "/rn-redirect-test/static/js/2.e38f5843.chunk.js.map",
+    "static/js/3.01b9e68d.chunk.js": "/rn-redirect-test/static/js/3.01b9e68d.chunk.js",
+    "static/js/3.01b9e68d.chunk.js.map": "/rn-redirect-test/static/js/3.01b9e68d.chunk.js.map",
+    "index.html": "/rn-redirect-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rn-redirect-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e38f5843.chunk.js.LICENSE.txt": "/rn-redirect-test/static/js/2.e38f5843.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rn-redirect-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99f8273.js",
+    "static/js/2.e38f5843.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.43a0a9e5.chunk.js"
+  ]
+}
